@@ -1,3 +1,5 @@
+## :star: it if you :+1: it !
+
 # Smart Accident Alert System
 &nbsp;
 > ## Introduction
